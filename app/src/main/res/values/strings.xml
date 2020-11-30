@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Petagram3Week</string>
+    <string name="pnombre">nombre</string>
+    <string name="likes">5</string>
+    <string name="titulo_toolbar">Petagram</string>
+
+</resources>
